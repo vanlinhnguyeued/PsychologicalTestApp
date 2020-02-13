@@ -1,0 +1,24 @@
+[
+    {
+        "key": "A",
+        "value": "Không đúng trong tất cả các trường hợp"
+    },
+    {
+        "key": "B",
+        "value": "Đúng trong vài trường hợp"
+    },
+    {
+        "key": "C",
+        "value": "Đúng trong một nửa trường hợp"
+    },
+    {
+        "key": "D",
+        "value": "Chỉ vài trường hợp chưa đúng lắm"
+    },
+    {
+        "key": "E",
+        "value": "Đúng trong tất cả các trường hợp"
+    }
+
+    
+]
